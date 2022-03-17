@@ -1,0 +1,6 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+root 7 dir. root un sağında kendinden büyük sayılar (8,9), solunda ise kendinden küçük sayılar (0,1,2,3,4,5,6) bulunur.
+eklenmek ya da aranmak istenen sayı önce root a sorulur; bu sayı senden büyük mü küçük mü? verilen cevaba göre soluna ya da sağına gidilir
